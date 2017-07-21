@@ -1,8 +1,9 @@
 # AnimClipHitEditor
 Unity Animation Clip Hit Collider Editor
 
-Fighting Unity‚¿‚á‚ñ‚È‚Ç‚ğˆê‚ÉŒöŠJ‚·‚é‚Ì‚Í‚¿‚å‚Á‚Æ·‚µá‚è‚ª‚ ‚é‚©‚Æv‚Á‚½‚Ì‚ÅA  
-Script‚ÆEditor‚Ì‚İBÚ‚µ‚¢–‚ÍƒuƒƒO‚ğŒ©‚Ä‚­‚¾‚³‚¢B  
+Fighting Unityã¡ã‚ƒã‚“ãªã©ã‚’ä¸€ç·’ã«å…¬é–‹ã™ã‚‹ã®ã¯ã¡ã‚‡ã£ã¨å·®ã—éšœã‚ŠãŒã‚ã‚‹ã‹ã¨æ€ã£ãŸã®ã§ã€  
+Scriptã¨Editorã®ã¿ã€‚è©³ã—ã„äº‹ã¯ãƒ–ãƒ­ã‚°ã‚’è¦‹ã¦ãã ã•ã„ã€‚  
 
 http://ghoul-life.hatenablog.com/
 
+![img](https://raw.githubusercontent.com/Black-Wolfwood/AnimClipHitEditor/master/rising_p.gif)
